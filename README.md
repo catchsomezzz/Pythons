@@ -1,2 +1,2 @@
 # Pythons
-Python Exercise
+Compilation of Python Exercises
